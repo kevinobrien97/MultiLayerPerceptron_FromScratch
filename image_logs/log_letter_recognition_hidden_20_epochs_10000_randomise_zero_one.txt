@@ -1,0 +1,4881 @@
+Initialising Weights Randomly Between 0 and 1
+Hidden Units: 20
+Number of Epochs: 10000
+
+****************
+Learning Rate: 0.001
+****************
+
+Training log:
+****************
+Error after 100 epochs: 0.9615383752042528
+Error after 500 epochs: 0.9615381148148429
+Error after 1000 epochs: 0.9615384225646753
+Error after 2000 epochs: 0.9615383045223856
+Error after 5000 epochs: 0.9646297808638294
+Error after 10000 epochs: 0.967490349370661
+
+Testing log (showing every tenth set of targets/predictions):
+****************
+Target: U
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: U
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: X
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: Q
+Prediction: P
+
+Target: X
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: Y
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: Z
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: Z
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: Y
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: Q
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: Q
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: M
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: M
+Prediction: P
+
+Target: Z
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: M
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: Q
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: Y
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: Y
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: X
+Prediction: P
+
+Target: U
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: Q
+Prediction: P
+
+Target: Y
+Prediction: P
+
+Target: Z
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: Q
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: Q
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: X
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: X
+Prediction: P
+
+Target: X
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: X
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: Q
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: M
+Prediction: P
+
+Target: L
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: Y
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: Z
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: U
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: Q
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: Z
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: L
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: U
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: Z
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: X
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: L
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: Y
+Prediction: P
+
+Target: Z
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: Y
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: M
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: Y
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: Z
+Prediction: P
+
+Target: M
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: Q
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: Z
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: Q
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: Z
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: X
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: U
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: U
+Prediction: P
+
+Target: Y
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: Z
+Prediction: P
+
+Target: X
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: M
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: Y
+Prediction: P
+
+Target: U
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: Z
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: X
+Prediction: P
+
+Target: H
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: L
+Prediction: P
+
+Target: U
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: X
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: M
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: D
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: Y
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: U
+Prediction: P
+
+Target: N
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: M
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: U
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: F
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: P
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: O
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: R
+Prediction: P
+
+Target: L
+Prediction: P
+
+Target: M
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: B
+Prediction: P
+
+Target: M
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: E
+Prediction: P
+
+Target: J
+Prediction: P
+
+Target: I
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: W
+Prediction: P
+
+Target: X
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: Q
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: U
+Prediction: P
+
+Target: M
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: S
+Prediction: P
+
+Target: A
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: U
+Prediction: P
+
+Target: T
+Prediction: P
+
+Target: C
+Prediction: P
+
+Target: Q
+Prediction: P
+
+Target: V
+Prediction: P
+
+Target: G
+Prediction: P
+
+Target: K
+Prediction: P
+
+Target: D
+Prediction: P
+
+Average Error on Test Set: 1.0384615384615385
+
+Correctly Predicted: 3.88% of test set
+
+****************
+Learning Rate: 1e-05
+****************
+
+Training log:
+****************
+Error after 100 epochs: 0.9615383031734747
+Error after 500 epochs: 0.9615383001137742
+Error after 1000 epochs: 0.961538296105495
+Error after 2000 epochs: 0.9615382874111431
+Error after 5000 epochs: 0.9615382542489221
+Error after 10000 epochs: 0.9615381535486907
+
+Testing log (showing every tenth set of targets/predictions):
+****************
+Target: U
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: U
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: X
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: Q
+Prediction: V
+
+Target: X
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: Y
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: Z
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: Z
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: Y
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: Q
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: Q
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: M
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: M
+Prediction: V
+
+Target: Z
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: M
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: Q
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: Y
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: Y
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: X
+Prediction: V
+
+Target: U
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: Q
+Prediction: V
+
+Target: Y
+Prediction: V
+
+Target: Z
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: Q
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: Q
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: X
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: X
+Prediction: V
+
+Target: X
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: X
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: Q
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: M
+Prediction: V
+
+Target: L
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: Y
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: Z
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: U
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: Q
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: Z
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: L
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: U
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: Z
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: X
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: L
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: Y
+Prediction: V
+
+Target: Z
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: Y
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: M
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: Y
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: Z
+Prediction: V
+
+Target: M
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: Q
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: Z
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: Q
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: Z
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: X
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: U
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: U
+Prediction: V
+
+Target: Y
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: Z
+Prediction: V
+
+Target: X
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: M
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: Y
+Prediction: V
+
+Target: U
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: Z
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: X
+Prediction: V
+
+Target: H
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: L
+Prediction: V
+
+Target: U
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: X
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: M
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: D
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: Y
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: U
+Prediction: V
+
+Target: N
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: M
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: U
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: F
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: P
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: O
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: R
+Prediction: V
+
+Target: L
+Prediction: V
+
+Target: M
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: B
+Prediction: V
+
+Target: M
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: E
+Prediction: V
+
+Target: J
+Prediction: V
+
+Target: I
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: W
+Prediction: V
+
+Target: X
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: Q
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: U
+Prediction: V
+
+Target: M
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: S
+Prediction: V
+
+Target: A
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: U
+Prediction: V
+
+Target: T
+Prediction: V
+
+Target: C
+Prediction: V
+
+Target: Q
+Prediction: V
+
+Target: V
+Prediction: V
+
+Target: G
+Prediction: V
+
+Target: K
+Prediction: V
+
+Target: D
+Prediction: V
+
+Average Error on Test Set: 0.9615384580636044
+
+Correctly Predicted: 3.62% of test set
+
+****************
+Learning Rate: 5e-06
+****************
+
+Training log:
+****************
+Error after 100 epochs: 0.9615384170758479
+Error after 500 epochs: 0.9615384170176561
+Error after 1000 epochs: 0.9615384169446163
+Error after 2000 epochs: 0.9615384167975288
+Error after 5000 epochs: 0.9615384163480223
+Error after 10000 epochs: 0.9615384155701208
+
+Testing log (showing every tenth set of targets/predictions):
+****************
+Target: U
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: U
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: X
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: Q
+Prediction: I
+
+Target: X
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: Y
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: Z
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: Z
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: Y
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: Q
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: Q
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: M
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: M
+Prediction: I
+
+Target: Z
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: M
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: Q
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: Y
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: Y
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: X
+Prediction: I
+
+Target: U
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: Q
+Prediction: I
+
+Target: Y
+Prediction: I
+
+Target: Z
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: Q
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: Q
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: X
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: X
+Prediction: I
+
+Target: X
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: X
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: Q
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: M
+Prediction: I
+
+Target: L
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: Y
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: Z
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: U
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: Q
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: Z
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: L
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: U
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: Z
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: X
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: L
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: Y
+Prediction: I
+
+Target: Z
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: Y
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: M
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: Y
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: Z
+Prediction: I
+
+Target: M
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: Q
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: Z
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: Q
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: Z
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: X
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: U
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: U
+Prediction: I
+
+Target: Y
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: Z
+Prediction: I
+
+Target: X
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: M
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: Y
+Prediction: I
+
+Target: U
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: Z
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: X
+Prediction: I
+
+Target: H
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: L
+Prediction: I
+
+Target: U
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: X
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: M
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: D
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: Y
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: U
+Prediction: I
+
+Target: N
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: M
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: U
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: F
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: P
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: O
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: R
+Prediction: I
+
+Target: L
+Prediction: I
+
+Target: M
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: B
+Prediction: I
+
+Target: M
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: E
+Prediction: I
+
+Target: J
+Prediction: I
+
+Target: I
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: W
+Prediction: I
+
+Target: X
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: Q
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: U
+Prediction: I
+
+Target: M
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: S
+Prediction: I
+
+Target: A
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: U
+Prediction: I
+
+Target: T
+Prediction: I
+
+Target: C
+Prediction: I
+
+Target: Q
+Prediction: I
+
+Target: V
+Prediction: I
+
+Target: G
+Prediction: I
+
+Target: K
+Prediction: I
+
+Target: D
+Prediction: I
+
+Average Error on Test Set: 0.9615384614912116
+
+Correctly Predicted: 4.05% of test set
+
+****************
+Learning Rate: 1e-06
+****************
+
+Training log:
+****************
+Error after 100 epochs: 0.9615383455925236
+Error after 500 epochs: 0.9615383455093608
+Error after 1000 epochs: 0.9615383454051775
+Error after 2000 epochs: 0.9615383451960402
+Error after 5000 epochs: 0.9615383445623905
+Error after 10000 epochs: 0.9615383434850221
+
+Testing log (showing every tenth set of targets/predictions):
+****************
+Target: U
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: U
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: X
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: Q
+Prediction: T
+
+Target: X
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: Y
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: Z
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: Z
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: Y
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: Q
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: Q
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: M
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: M
+Prediction: T
+
+Target: Z
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: M
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: Q
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: Y
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: Y
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: X
+Prediction: T
+
+Target: U
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: Q
+Prediction: T
+
+Target: Y
+Prediction: T
+
+Target: Z
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: Q
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: Q
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: X
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: X
+Prediction: T
+
+Target: X
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: X
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: Q
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: M
+Prediction: T
+
+Target: L
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: Y
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: Z
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: U
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: Q
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: Z
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: L
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: U
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: Z
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: X
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: L
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: Y
+Prediction: T
+
+Target: Z
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: Y
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: M
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: Y
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: Z
+Prediction: T
+
+Target: M
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: Q
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: Z
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: Q
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: Z
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: X
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: U
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: U
+Prediction: T
+
+Target: Y
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: Z
+Prediction: T
+
+Target: X
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: M
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: Y
+Prediction: T
+
+Target: U
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: Z
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: X
+Prediction: T
+
+Target: H
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: L
+Prediction: T
+
+Target: U
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: X
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: M
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: D
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: Y
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: U
+Prediction: T
+
+Target: N
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: M
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: U
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: F
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: P
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: O
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: R
+Prediction: T
+
+Target: L
+Prediction: T
+
+Target: M
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: B
+Prediction: T
+
+Target: M
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: E
+Prediction: T
+
+Target: J
+Prediction: T
+
+Target: I
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: W
+Prediction: T
+
+Target: X
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: Q
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: U
+Prediction: T
+
+Target: M
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: S
+Prediction: T
+
+Target: A
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: U
+Prediction: T
+
+Target: T
+Prediction: T
+
+Target: C
+Prediction: T
+
+Target: Q
+Prediction: T
+
+Target: V
+Prediction: T
+
+Target: G
+Prediction: T
+
+Target: K
+Prediction: T
+
+Target: D
+Prediction: T
+
+Average Error on Test Set: 0.9615384593584373
+
+Correctly Predicted: 3.6% of test set
+
+-----------------------------------------------------------------------------

@@ -1,0 +1,208 @@
+Initialising Weights Randomly Between 0 and 1
+Hidden Units: 5
+Number of Epochs: 100000
+
+****************
+Learning Rate: 1
+****************
+
+Training log:
+****************
+Error after 100 epochs: 0.4998940272367891
+Error after 1000 epochs: 0.09331994532687968
+Error after 10000 epochs: 0.0184071746823323
+Error after 25000 epochs: 0.011287222510100404
+Error after 50000 epochs: 0.007875543766467357
+Error after 100000 epochs: 0.005518953977853177
+
+Testing log:
+****************
+Target: 0
+Prediction: 0.008434157552931901
+
+Target: 1
+Prediction: 0.9940787467650926
+
+Target: 1
+Prediction: 0.9948493309862183
+
+Target: 0
+Prediction: 0.002569623334542752
+
+Average Error on Test Set: 0.005518925784040947
+
+****************
+Learning Rate: 0.75
+****************
+
+Training log:
+****************
+Error after 100 epochs: 0.4967871989035999
+Error after 1000 epochs: 0.09155321036940872
+Error after 10000 epochs: 0.018468291099920427
+Error after 25000 epochs: 0.011153776182255696
+Error after 50000 epochs: 0.00762426988615362
+Error after 100000 epochs: 0.005107788651397412
+
+Testing log:
+****************
+Target: 0
+Prediction: 0.0051028486824899865
+
+Target: 1
+Prediction: 0.9947326081632446
+
+Target: 1
+Prediction: 0.9953102600528594
+
+Target: 0
+Prediction: 0.005371049469407634
+
+Average Error on Test Set: 0.005107757483948408
+
+****************
+Learning Rate: 0.5
+****************
+
+Training log:
+****************
+Error after 100 epochs: 0.4998851639178309
+Error after 1000 epochs: 0.34657802056251436
+Error after 10000 epochs: 0.02240255414206152
+Error after 25000 epochs: 0.012471122630754096
+Error after 50000 epochs: 0.008426696786609292
+Error after 100000 epochs: 0.005829761680244299
+
+Testing log:
+****************
+Target: 0
+Prediction: 0.005939486436829258
+
+Target: 1
+Prediction: 0.9942405749687241
+
+Target: 1
+Prediction: 0.9942526708317885
+
+Target: 0
+Prediction: 0.005872684640619909
+
+Average Error on Test Set: 0.005829731319234151
+
+****************
+Learning Rate: 0.25
+****************
+
+Training log:
+****************
+Error after 100 epochs: 0.5004853258360991
+Error after 1000 epochs: 0.4737646940384389
+Error after 10000 epochs: 0.04016755453217551
+Error after 25000 epochs: 0.02302979696760719
+Error after 50000 epochs: 0.015733788528772556
+Error after 100000 epochs: 0.010903082725589756
+
+Testing log:
+****************
+Target: 0
+Prediction: 0.015299894435027033
+
+Target: 1
+Prediction: 0.9890211603499474
+
+Target: 1
+Prediction: 0.989213553666056
+
+Target: 0
+Prediction: 0.006546922496386544
+
+Average Error on Test Set: 0.010903025728852553
+
+****************
+Learning Rate: 0.1
+****************
+
+Training log:
+****************
+Error after 100 epochs: 0.50085590431197
+Error after 1000 epochs: 0.497676289092301
+Error after 10000 epochs: 0.08305460437146353
+Error after 25000 epochs: 0.04012819414667592
+Error after 50000 epochs: 0.026206901465149757
+Error after 100000 epochs: 0.01754968595076385
+
+Testing log:
+****************
+Target: 0
+Prediction: 0.018889188395622137
+
+Target: 1
+Prediction: 0.9827423007561971
+
+Target: 1
+Prediction: 0.9823802049239783
+
+Target: 0
+Prediction: 0.01643165335902706
+
+Average Error on Test Set: 0.017549584018618468
+
+****************
+Learning Rate: 0.05
+****************
+
+Training log:
+****************
+Error after 100 epochs: 0.4994044194391061
+Error after 1000 epochs: 0.49937263268138565
+Error after 10000 epochs: 0.28079072819165013
+Error after 25000 epochs: 0.06582063364165869
+Error after 50000 epochs: 0.03849470490158609
+Error after 100000 epochs: 0.02514190247932183
+
+Testing log:
+****************
+Target: 0
+Prediction: 0.03474055400669413
+
+Target: 1
+Prediction: 0.9749357168321257
+
+Target: 1
+Prediction: 0.9750360358413415
+
+Target: 0
+Prediction: 0.015798228142304815
+
+Average Error on Test Set: 0.025141757368882956
+
+****************
+Learning Rate: 0.005
+****************
+
+Training log:
+****************
+Error after 100 epochs: 0.49796013190106747
+Error after 1000 epochs: 0.4991656605806368
+Error after 10000 epochs: 0.4979285085428983
+Error after 25000 epochs: 0.48682148459044805
+Error after 50000 epochs: 0.3961531023623254
+Error after 100000 epochs: 0.15383475182093678
+
+Testing log:
+****************
+Target: 0
+Prediction: 0.1739630924649463
+
+Target: 1
+Prediction: 0.8446350020028194
+
+Target: 1
+Prediction: 0.8536915815410718
+
+Target: 0
+Prediction: 0.13969403002046618
+
+Average Error on Test Set: 0.1538326347353803
+
+-----------------------------------------------------------------------------
